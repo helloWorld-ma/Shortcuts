@@ -31,6 +31,7 @@ Shortcuts.io is a curated directory of the most used shortcuts in multiple softw
 - docker
 - aws
 - elastic search
+- graphQl vs MongoDb
 
 ## repositories :
 - [REPOS URLS ]
